@@ -1,4 +1,4 @@
-# 🌾 Crop Recommendation System
+#  Crop Recommendation System
 
 A smart crop recommendation tool that uses machine learning to suggest the most suitable crop based on your soil and weather conditions. Just enter a few details about your field — like nitrogen, phosphorus, potassium levels, temperature, humidity, pH, and rainfall — and the model tells you what to grow.
 
